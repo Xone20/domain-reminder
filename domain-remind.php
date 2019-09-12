@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: Domain Reminder
-URI: http://www.seo-expert.it/
+URI:
 Version: 1.0
 Author: Luigi Perrone
-Author URI: http://www.seo-expert.it/
+Author URI:
 Description: Simple plugin to remember the expiration date of your domain.
 */
 
