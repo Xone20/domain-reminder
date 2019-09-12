@@ -14,7 +14,7 @@ if(defined('WP_INSTALLING') && WP_INSTALLING) {return;}
 
 // ADD CSS FUNCTION
 function style() {
-   wp_register_style('style', plugins_url('css/style.css',__FILE__ ));
+   wp_register_style('style', plugins_url('style.css',__FILE__ ));
    wp_enqueue_style('style');
 }
 add_action( 'admin_init','style');
